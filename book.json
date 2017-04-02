@@ -10,6 +10,7 @@
     "anchors",
     "todo",
     "github",
+    "github-buttons",
     "edit-link",
     "tbfed-pagefooter",
     "search-plus",
@@ -34,6 +35,15 @@
         "css": [
         "prism-themes/themes/prism-atom-dark.css"
         ]
-    }
+    },
+    "github-buttons": {
+        "repo": "hysg/python3",
+        "types": [
+                "star",
+                "watch",
+                "fork"
+         ],
+        "size": "small"
+   }
   }
 }
