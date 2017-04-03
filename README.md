@@ -22,5 +22,5 @@
 [又拍云](https://www.upyun.com)
 # 提交反馈
 [issues](https://github.com/hysg/python3/issues)
-# 协议
+# LICENSE
 [MIT](https://github.com/hysg/python3/blob/master/LICENSE)
