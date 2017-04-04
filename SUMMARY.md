@@ -6,5 +6,14 @@
     * [python环境准备](part1/2.md)
 * python基础语法
     * [python语法基础](part2/1.md)
-    * [python常量与变量](part2/2.md)
-    * [python数据类型](part2/3.md)
+    * [python数据类型](part2/2.md)
+    * [python常量与变量](part2/3.md)
+    * [python运算符](part2/4.md)
+    * [python循环](part2/5.md)
+    * [python条件判断](part2/6.md)
+* python内置数据类型
+    * [python列表](part3/1.md)
+    * [python元组](part3/2.md)
+    * [python字符串](part3/3.md)
+    * [python集合](part3/4.md)
+    * [python字典](part3/5.md)
