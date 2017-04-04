@@ -18,7 +18,7 @@
 
 # 项目托管
 [python3](https://github.com/hysg/python3)
-# 图片托管
+# 附件托管
 [又拍云](https://www.upyun.com)
 # 提交反馈
 [issues](https://github.com/hysg/python3/issues)

@@ -26,7 +26,7 @@
     "tbfed-pagefooter": {
         "copyright":"Copyright &copy hysg 2017",
         "modify_label": "本页修订时间(UTC+8)：",
-        "modify_format": "YYYY-MM-DD HH:mm:ss"
+        "modify_format": "YYYY-MM-DD"
     },
     "edit-link": {
         "base": "https://github.com/hysg/python3/edit/master",

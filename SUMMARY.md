@@ -5,9 +5,9 @@
     * [python简介](part1/1.md)
     * [python环境准备](part1/2.md)
 * python基础语法
-    * [python语法基础](part2/1.md)
+    * [python语法入门](part2/1.md)
     * [python数据类型](part2/2.md)
-    * [python常量与变量](part2/3.md)
+    * [python变量](part2/3.md)
     * [python运算符](part2/4.md)
     * [python循环](part2/5.md)
     * [python条件判断](part2/6.md)
