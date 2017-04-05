@@ -1,6 +1,7 @@
 # Summary
 
 * [前言](README.md)
+* [LICENSE](license.md)
 * 准备知识
     * [python简介](part1/1.md)
     * [python环境准备](part1/2.md)
@@ -9,8 +10,7 @@
     * [python数据类型](part2/2.md)
     * [python变量](part2/3.md)
     * [python运算符](part2/4.md)
-    * [python循环](part2/5.md)
-    * [python条件判断](part2/6.md)
+    * [python程序控制结构](part2/5.md)
 * python内置数据类型
     * [python列表](part3/1.md)
     * [python元组](part3/2.md)

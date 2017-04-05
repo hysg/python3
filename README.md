@@ -23,4 +23,6 @@
 # 提交反馈
 [issues](https://github.com/hysg/python3/issues)
 # LICENSE
-[MIT](https://github.com/hysg/python3/blob/master/LICENSE)
+[MIT](https://hysg.gitbooks.io/python3/license.html)
+# 鸣谢
+感谢开源世界的爱好者！
