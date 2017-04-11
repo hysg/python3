@@ -25,8 +25,8 @@
       "url": "https://github.com/hysg/python3"
     },
     "tbfed-pagefooter": {
-        "copyright":"Copyright &copy hysg 2017",
-        "modify_label": "本页修订时间(UTC+8)：",
+        "copyright":"Copyright & copy hysg 2017",
+        "modify_label": "最后修订时间(UTC+8)：",
         "modify_format": "YYYY-MM-DD"
     },
     "edit-link": {
