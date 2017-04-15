@@ -7,7 +7,7 @@
 # 项目进度
 
 - [x] python环境准备
-- [ ] python语法基础
+- [x] python语法基础
 - [ ] python数据结构
 - [ ] python函数
 - [ ] python文件操作
