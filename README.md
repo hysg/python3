@@ -1,4 +1,4 @@
-# python3
+# python3 study note
 我的python3学习笔记。
 # 阅读地址
 [我的pyton3笔记](https://hysg.gitbooks.io/python3/)
