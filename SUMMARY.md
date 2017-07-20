@@ -17,5 +17,6 @@
     * [python字符串](part3/3.md)
     * [python集合](part3/4.md)
     * [python字典](part3/5.md)
-    * [python切片](part3/6.md)
-    * [python封包与解包](part3/7.md)
+    * [pythonbytes](part3/6.md)
+    * [python切片](part3/7.md)
+    * [python封包与解包](part3/8.md)
