@@ -18,3 +18,5 @@
     * [python集合](part3/4.md)
     * [python字典](part3/5.md)
     * [python高级特性](part3/6.md)
+    * [python高级特性](part3/7.md)
+
